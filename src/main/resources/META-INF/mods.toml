@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="lifealikes"
+version="1.0.0"
+displayName="Lifealikes"
+credits="Thanks"
+displayURL="https://google.com"
+logoFile="logo.png"
+authors="Grandiose Lights"
+
+[[dependencies.lifealikes]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

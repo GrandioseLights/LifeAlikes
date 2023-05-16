@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lifealikes:blocks/no_texture",
+    "up": "lifealikes:blocks/no_texture",
+    "north": "lifealikes:blocks/no_texture",
+    "east": "lifealikes:blocks/no_texture",
+    "south": "lifealikes:blocks/no_texture",
+    "west": "lifealikes:blocks/no_texture",
+    "particle": "lifealikes:blocks/no_texture"
+  },
+  "render_type": "solid"
+}
