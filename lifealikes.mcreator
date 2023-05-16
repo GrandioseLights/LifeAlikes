@@ -1,12 +1,12 @@
 {
   "mod_elements": [
     {
-      "name": "Tabelements",
+      "name": "PureElements",
       "type": "tab",
       "sortid": 120,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "tabelements",
+      "registry_name": "pure_elements",
       "metadata": {
         "files": []
       },
@@ -1785,24 +1785,24 @@
       "path": "~/More Stones"
     },
     {
-      "name": "Tabstones",
+      "name": "MoreStones",
       "type": "tab",
       "sortid": 302,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "tabstones",
+      "registry_name": "more_stones",
       "metadata": {
         "files": []
       },
       "path": "~/More Stones"
     },
     {
-      "name": "Tabsoils",
+      "name": "MoreDirts",
       "type": "tab",
       "sortid": 303,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "tabsoils",
+      "registry_name": "more_dirts",
       "metadata": {
         "files": []
       },
@@ -2438,31 +2438,16 @@
       "path": "~/More Dirts"
     },
     {
-      "name": "Tabgems",
+      "name": "MoreGems",
       "type": "tab",
       "sortid": 341,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "tabgems",
+      "registry_name": "more_gems",
       "metadata": {
         "files": []
       },
-      "path": "~/More Gemstones"
-    },
-    {
-      "name": "HyperstheneTEST",
-      "type": "item",
-      "sortid": 342,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hypersthene_test",
-      "metadata": {
-        "files": [
-          "src/main/java/net/zachsedit/lifealikes/item/HyperstheneTESTItem.java",
-          "src/main/resources/assets/lifealikes/models/item/hypersthene_test.json"
-        ]
-      },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Ilmenite",
@@ -2477,7 +2462,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/IlmeniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Ruby",
@@ -2492,7 +2477,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/RubyItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sapphire",
@@ -2507,7 +2492,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/SapphireItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Lazulite",
@@ -2522,7 +2507,7 @@
           "src/main/resources/assets/lifealikes/models/item/lazulite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Alexandrite",
@@ -2537,7 +2522,7 @@
           "src/main/resources/assets/lifealikes/models/item/alexandrite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Nepheline",
@@ -2552,7 +2537,7 @@
           "src/main/resources/assets/lifealikes/models/item/nepheline.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Chrysoberyll",
@@ -2567,7 +2552,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ChrysoberyllItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Neptunite",
@@ -2582,7 +2567,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/NeptuniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Holtite",
@@ -2597,7 +2582,7 @@
           "src/main/resources/assets/lifealikes/models/item/holtite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Pargasite",
@@ -2612,7 +2597,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/PargasiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "YAG",
@@ -2627,7 +2612,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/YAGItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Richterite",
@@ -2642,7 +2627,7 @@
           "src/main/resources/assets/lifealikes/models/item/richterite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Zirconia",
@@ -2657,7 +2642,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ZirconiaItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Samarskite",
@@ -2672,7 +2657,7 @@
           "src/main/resources/assets/lifealikes/models/item/samarskite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Rhodizite",
@@ -2687,7 +2672,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/RhodiziteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Stibiotantalite",
@@ -2702,7 +2687,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/StibiotantaliteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Taafeite",
@@ -2717,7 +2702,7 @@
           "src/main/resources/assets/lifealikes/models/item/taafeite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Tremolite",
@@ -2732,7 +2717,7 @@
           "src/main/resources/assets/lifealikes/models/item/tremolite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Spinel",
@@ -2747,7 +2732,7 @@
           "src/main/resources/assets/lifealikes/models/item/spinel.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Turquoise",
@@ -2762,7 +2747,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/TurquoiseItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Topaz",
@@ -2777,7 +2762,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/TopazItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Analcime",
@@ -2792,7 +2777,7 @@
           "src/main/resources/assets/lifealikes/models/item/analcime.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Datolite",
@@ -2807,7 +2792,7 @@
           "src/main/resources/assets/lifealikes/models/item/datolite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Durangite",
@@ -2822,7 +2807,7 @@
           "src/main/resources/assets/lifealikes/models/item/durangite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Eudialyte",
@@ -2837,7 +2822,7 @@
           "src/main/resources/assets/lifealikes/models/item/eudialyte.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Gahnite",
@@ -2852,7 +2837,7 @@
           "src/main/resources/assets/lifealikes/models/item/gahnite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Goethite",
@@ -2867,7 +2852,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/GoethiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Galaxite",
@@ -2882,7 +2867,7 @@
           "src/main/resources/assets/lifealikes/models/item/galaxite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Painite",
@@ -2897,7 +2882,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/PainiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Phenakite",
@@ -2912,7 +2897,7 @@
           "src/main/resources/assets/lifealikes/models/item/phenakite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Andalusite",
@@ -2927,7 +2912,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/AndalusiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Euclase",
@@ -2942,7 +2927,7 @@
           "src/main/resources/assets/lifealikes/models/item/euclase.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Hambergite",
@@ -2957,7 +2942,7 @@
           "src/main/resources/assets/lifealikes/models/item/hambergite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sapphirine",
@@ -2972,7 +2957,7 @@
           "src/main/resources/assets/lifealikes/models/item/sapphirine.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Dumortierite",
@@ -2987,7 +2972,7 @@
           "src/main/resources/assets/lifealikes/models/item/dumortierite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Almandine",
@@ -3002,7 +2987,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/AlmandineItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Boracite",
@@ -3017,7 +3002,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/BoraciteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Cordierite",
@@ -3032,7 +3017,7 @@
           "src/main/resources/assets/lifealikes/models/item/cordierite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Danburite",
@@ -3047,7 +3032,7 @@
           "src/main/resources/assets/lifealikes/models/item/danburite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Grandidierite",
@@ -3062,7 +3047,7 @@
           "src/main/resources/assets/lifealikes/models/item/grandidierite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Pyrope",
@@ -3077,7 +3062,7 @@
           "src/main/resources/assets/lifealikes/models/item/pyrope.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Schorlomite",
@@ -3092,7 +3077,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/SchorlomiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sekaninaite",
@@ -3107,7 +3092,7 @@
           "src/main/resources/assets/lifealikes/models/item/sekaninaite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Simpsonite",
@@ -3122,7 +3107,7 @@
           "src/main/resources/assets/lifealikes/models/item/simpsonite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Spessartine",
@@ -3137,7 +3122,7 @@
           "src/main/resources/assets/lifealikes/models/item/spessartine.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Staurolite",
@@ -3152,7 +3137,7 @@
           "src/main/resources/assets/lifealikes/models/item/staurolite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Turmaline",
@@ -3167,7 +3152,7 @@
           "src/main/resources/assets/lifealikes/models/item/turmaline.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Uvarovite",
@@ -3182,7 +3167,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/UvaroviteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Amethyst",
@@ -3197,7 +3182,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/AmethystItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Aventurine",
@@ -3212,7 +3197,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/AventurineItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Chambersite",
@@ -3227,7 +3212,7 @@
           "src/main/resources/assets/lifealikes/models/item/chambersite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Chromdravite",
@@ -3242,7 +3227,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ChromdraviteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Citrine",
@@ -3257,7 +3242,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/CitrineItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Forsterite",
@@ -3272,7 +3257,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ForsteriteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Povondraite",
@@ -3287,7 +3272,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/PovondraiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Zunyite",
@@ -3302,7 +3287,7 @@
           "src/main/resources/assets/lifealikes/models/item/zunyite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Garnet",
@@ -3317,7 +3302,7 @@
           "src/main/resources/assets/lifealikes/models/item/garnet.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Jeremejevite",
@@ -3332,7 +3317,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/JeremejeviteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sillimanite",
@@ -3347,7 +3332,7 @@
           "src/main/resources/assets/lifealikes/models/item/sillimanite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Zircon",
@@ -3362,7 +3347,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ZirconItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Axinite",
@@ -3377,7 +3362,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/AxiniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Chalcedony",
@@ -3392,7 +3377,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ChalcedonyItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Chrysoprase",
@@ -3407,7 +3392,7 @@
           "src/main/resources/assets/lifealikes/models/item/chrysoprase.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Diaspore",
@@ -3422,7 +3407,7 @@
           "src/main/resources/assets/lifealikes/models/item/diaspore.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Gadolinite",
@@ -3437,7 +3422,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/GadoliniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Grossular",
@@ -3452,7 +3437,7 @@
           "src/main/resources/assets/lifealikes/models/item/grossular.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Hiddenite",
@@ -3467,7 +3452,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/HiddeniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Jadeite",
@@ -3482,7 +3467,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/JadeiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Jasper",
@@ -3497,7 +3482,7 @@
           "src/main/resources/assets/lifealikes/models/item/jasper.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Kornerupine",
@@ -3512,7 +3497,7 @@
           "src/main/resources/assets/lifealikes/models/item/kornerupine.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Kunzite",
@@ -3527,7 +3512,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/KunziteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Peridot",
@@ -3542,7 +3527,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/PeridotItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Pollucite",
@@ -3557,7 +3542,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/PolluciteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Serendibite",
@@ -3572,7 +3557,7 @@
           "src/main/resources/assets/lifealikes/models/item/serendibite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sinhalite",
@@ -3587,7 +3572,7 @@
           "src/main/resources/assets/lifealikes/models/item/sinhalite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Spodumene",
@@ -3602,7 +3587,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/SpodumeneItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Tanzanite",
@@ -3617,7 +3602,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/TanzaniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Thorianite",
@@ -3632,7 +3617,7 @@
           "src/main/resources/assets/lifealikes/models/item/thorianite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Tinzenite",
@@ -3647,7 +3632,7 @@
           "src/main/resources/assets/lifealikes/models/item/tinzenite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "GGG",
@@ -3662,7 +3647,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/GGGItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Nambulite",
@@ -3677,7 +3662,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/NambuliteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Vesuvianite",
@@ -3692,7 +3677,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/VesuvianiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Cassiterite",
@@ -3707,7 +3692,7 @@
           "src/main/resources/assets/lifealikes/models/item/cassiterite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Clinozoisite",
@@ -3722,7 +3707,7 @@
           "src/main/resources/assets/lifealikes/models/item/clinozoisite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Epidote",
@@ -3737,7 +3722,7 @@
           "src/main/resources/assets/lifealikes/models/item/epidote.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Hancockite",
@@ -3752,7 +3737,7 @@
           "src/main/resources/assets/lifealikes/models/item/hancockite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Pyrolusite",
@@ -3767,7 +3752,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/PyrolusiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sogdianite",
@@ -3782,7 +3767,7 @@
           "src/main/resources/assets/lifealikes/models/item/sogdianite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Amazonite",
@@ -3797,7 +3782,7 @@
           "src/main/resources/assets/lifealikes/models/item/amazonite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Andesine",
@@ -3812,7 +3797,7 @@
           "src/main/resources/assets/lifealikes/models/item/andesine.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Anorthoclase",
@@ -3827,7 +3812,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/AnorthoclaseItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Benitoite",
@@ -3842,7 +3827,7 @@
           "src/main/resources/assets/lifealikes/models/item/benitoite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Bixbyite",
@@ -3857,7 +3842,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/BixbyiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Bytownite",
@@ -3872,7 +3857,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/BytowniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Chondroite",
@@ -3887,7 +3872,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ChondroiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Helvite",
@@ -3902,7 +3887,7 @@
           "src/main/resources/assets/lifealikes/models/item/helvite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Hyalophane",
@@ -3917,7 +3902,7 @@
           "src/main/resources/assets/lifealikes/models/item/hyalophane.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Labradorite",
@@ -3932,7 +3917,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/LabradoriteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Marcasite",
@@ -3947,7 +3932,7 @@
           "src/main/resources/assets/lifealikes/models/item/marcasite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Microcline",
@@ -3962,7 +3947,7 @@
           "src/main/resources/assets/lifealikes/models/item/microcline.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Nephrite",
@@ -3977,7 +3962,7 @@
           "src/main/resources/assets/lifealikes/models/item/nephrite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Norbergite",
@@ -3992,7 +3977,7 @@
           "src/main/resources/assets/lifealikes/models/item/norbergite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Oligoclase",
@@ -4007,7 +3992,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/OligoclaseItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Petalite",
@@ -4022,7 +4007,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/PetaliteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Prehnite",
@@ -4037,7 +4022,7 @@
           "src/main/resources/assets/lifealikes/models/item/prehnite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Pyrite",
@@ -4052,7 +4037,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/PyriteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Rutile",
@@ -4067,7 +4052,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/RutileItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sanidine",
@@ -4082,7 +4067,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/SanidineItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Smaragdite",
@@ -4097,7 +4082,7 @@
           "src/main/resources/assets/lifealikes/models/item/smaragdite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sugilite",
@@ -4112,7 +4097,7 @@
           "src/main/resources/assets/lifealikes/models/item/sugilite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Tantalite",
@@ -4127,7 +4112,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/TantaliteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Xonotlite",
@@ -4142,7 +4127,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/XonotliteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Zoisite",
@@ -4157,7 +4142,7 @@
           "src/main/resources/assets/lifealikes/models/item/zoisite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Aegirine",
@@ -4172,7 +4157,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/AegirineItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Amblygonite",
@@ -4187,7 +4172,7 @@
           "src/main/resources/assets/lifealikes/models/item/amblygonite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Clinohumite",
@@ -4202,7 +4187,7 @@
           "src/main/resources/assets/lifealikes/models/item/clinohumite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Humite",
@@ -4217,7 +4202,7 @@
           "src/main/resources/assets/lifealikes/models/item/humite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Hurlbutite",
@@ -4232,7 +4217,7 @@
           "src/main/resources/assets/lifealikes/models/item/hurlbutite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Lawsonite",
@@ -4247,7 +4232,7 @@
           "src/main/resources/assets/lifealikes/models/item/lawsonite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Pumpellyite",
@@ -4262,7 +4247,7 @@
           "src/main/resources/assets/lifealikes/models/item/pumpellyite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Tephroite",
@@ -4277,7 +4262,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/TephroiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Vlasovite",
@@ -4292,7 +4277,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/VlasoviteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Zektzerite",
@@ -4307,7 +4292,7 @@
           "src/main/resources/assets/lifealikes/models/item/zektzerite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Hematite",
@@ -4322,7 +4307,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/HematiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Hedenbergite",
@@ -4337,7 +4322,7 @@
           "src/main/resources/assets/lifealikes/models/item/hedenbergite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Magnetite",
@@ -4352,7 +4337,7 @@
           "src/main/resources/assets/lifealikes/models/item/magnetite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Manganotantalite",
@@ -4367,7 +4352,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ManganotantaliteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Opal",
@@ -4382,7 +4367,7 @@
           "src/main/resources/assets/lifealikes/models/item/opal.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Rhodocnite",
@@ -4397,7 +4382,7 @@
           "src/main/resources/assets/lifealikes/models/item/rhodocnite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Actinolite",
@@ -4412,7 +4397,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ActinoliteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Allanite",
@@ -4427,7 +4412,7 @@
           "src/main/resources/assets/lifealikes/models/item/allanite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Anatase",
@@ -4442,7 +4427,7 @@
           "src/main/resources/assets/lifealikes/models/item/anatase.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Beryllonite",
@@ -4457,7 +4442,7 @@
           "src/main/resources/assets/lifealikes/models/item/beryllonite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Brookite",
@@ -4472,7 +4457,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/BrookiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Bustamite",
@@ -4487,7 +4472,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/BustamiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Canasite",
@@ -4502,7 +4487,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/CanasiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Cobaltite",
@@ -4517,7 +4502,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/CobaltiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Euxenite",
@@ -4532,7 +4517,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/EuxeniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Fabulite",
@@ -4547,7 +4532,7 @@
           "src/main/resources/assets/lifealikes/models/item/fabulite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Fergusonite",
@@ -4562,7 +4547,7 @@
           "src/main/resources/assets/lifealikes/models/item/fergusonite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Leucite",
@@ -4577,7 +4562,7 @@
           "src/main/resources/assets/lifealikes/models/item/leucite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Marialite",
@@ -4592,7 +4577,7 @@
           "src/main/resources/assets/lifealikes/models/item/marialite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Meionite",
@@ -4607,7 +4592,7 @@
           "src/main/resources/assets/lifealikes/models/item/meionite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Milarite",
@@ -4622,7 +4607,7 @@
           "src/main/resources/assets/lifealikes/models/item/milarite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Montebrasite",
@@ -4637,7 +4622,7 @@
           "src/main/resources/assets/lifealikes/models/item/montebrasite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Natromontebrasite",
@@ -4652,7 +4637,7 @@
           "src/main/resources/assets/lifealikes/models/item/natromontebrasite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Periclase",
@@ -4667,7 +4652,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/PericlaseItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Pyroxmangite",
@@ -4682,7 +4667,7 @@
           "src/main/resources/assets/lifealikes/models/item/pyroxmangite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sarcolite",
@@ -4697,7 +4682,7 @@
           "src/main/resources/assets/lifealikes/models/item/sarcolite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Scorzalite",
@@ -4712,7 +4697,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ScorzaliteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Scapolite",
@@ -4727,7 +4712,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ScapoliteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sodalite",
@@ -4742,7 +4727,7 @@
           "src/main/resources/assets/lifealikes/models/item/sodalite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Tugtupite",
@@ -4757,7 +4742,7 @@
           "src/main/resources/assets/lifealikes/models/item/tugtupite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Brazilianite",
@@ -4772,7 +4757,7 @@
           "src/main/resources/assets/lifealikes/models/item/brazilianite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Breithauptite",
@@ -4787,7 +4772,7 @@
           "src/main/resources/assets/lifealikes/models/item/breithauptite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Chromite",
@@ -4802,7 +4787,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/ChromiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Enstatite",
@@ -4817,7 +4802,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/EnstatiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Linobate",
@@ -4832,7 +4817,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/LinobateItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Magnesiochromite",
@@ -4847,7 +4832,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/MagnesiochromiteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Moldavite",
@@ -4862,7 +4847,7 @@
           "src/main/resources/assets/lifealikes/models/item/moldavite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Willemite",
@@ -4877,7 +4862,7 @@
           "src/main/resources/assets/lifealikes/models/item/willemite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Aeschynite",
@@ -4892,7 +4877,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/AeschyniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Bronzite",
@@ -4907,7 +4892,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/BronziteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Cancrinite",
@@ -4922,7 +4907,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/CancriniteItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Catapleiite",
@@ -4937,7 +4922,7 @@
           "src/main/resources/assets/lifealikes/models/item/catapleiite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Clinoenstatite",
@@ -4952,7 +4937,7 @@
           "src/main/resources/assets/lifealikes/models/item/clinoenstatite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Davidite",
@@ -4967,7 +4952,7 @@
           "src/main/resources/assets/lifealikes/models/item/davidite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Diopside",
@@ -4982,7 +4967,7 @@
           "src/main/resources/assets/lifealikes/models/item/diopside.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Ferrosilite",
@@ -4997,7 +4982,7 @@
           "src/main/resources/assets/lifealikes/models/item/ferrosilite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Hornblende",
@@ -5012,7 +4997,7 @@
           "src/main/resources/assets/lifealikes/models/item/hornblende.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Sulphur",
@@ -5027,7 +5012,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/SulphurItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Covellite",
@@ -5042,7 +5027,7 @@
           "src/main/resources/assets/lifealikes/models/item/covellite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Melonite",
@@ -5057,7 +5042,7 @@
           "src/main/resources/assets/lifealikes/models/item/melonite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Realgar",
@@ -5072,7 +5057,7 @@
           "src/main/resources/assets/lifealikes/models/item/realgar.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Vivianite",
@@ -5087,7 +5072,7 @@
           "src/main/resources/assets/lifealikes/models/item/vivianite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Palygorskite",
@@ -5102,7 +5087,7 @@
           "src/main/resources/assets/lifealikes/models/item/palygorskite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Pyrophyllite",
@@ -5117,7 +5102,7 @@
           "src/main/resources/assets/lifealikes/models/item/pyrophyllite.json"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Talc",
@@ -5132,7 +5117,7 @@
           "src/main/java/net/zachsedit/lifealikes/item/TalcItem.java"
         ]
       },
-      "path": "~/More Gemstones"
+      "path": "~/More Gems"
     },
     {
       "name": "Mugearite",
@@ -7751,6 +7736,18 @@
         ]
       },
       "path": "~/More Stones"
+    },
+    {
+      "name": "MoreFlowers",
+      "type": "tab",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "more_flowers",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/More Flowers"
     }
   ],
   "variable_elements": [],
@@ -7782,7 +7779,6 @@
       "block.lifealikes.aridisols": "Aridisols",
       "block.lifealikes.breccia": "Breccia",
       "item.lifealikes.prehnite": "Prehnite",
-      "itemGroup.tabtabstones": "More Stones",
       "item.lifealikes.sulphur": "Sulphur",
       "block.lifealikes.quartz_diorite": "Quartz diorite",
       "item.lifealikes.talc": "Talc",
@@ -7860,7 +7856,6 @@
       "item.lifealikes.chambersite": "Chambersite",
       "block.lifealikes.harzburgite": "Harzburgite",
       "block.lifealikes.migmatite": "Migmatite",
-      "itemGroup.tabtabgems": "More Gems",
       "item.lifealikes.euclase": "Euclase",
       "item.lifealikes.tc": "Tc",
       "item.lifealikes.palygorskite": "Palygorskite",
@@ -7875,7 +7870,6 @@
       "block.lifealikes.latite": "Latite",
       "item.lifealikes.durangite": "Durangite",
       "item.lifealikes.aegirine": "Aegirine",
-      "itemGroup.tabtabsoils": "More Dirts",
       "item.lifealikes.rutile": "Rutile",
       "item.lifealikes.jeremejevite": "Jeremejevite",
       "block.lifealikes.syenite": "Syenite",
@@ -7883,6 +7877,7 @@
       "block.lifealikes.trachyte": "Trachyte",
       "item.lifealikes.canasite": "Canasite",
       "item.lifealikes.ilmenite": "Ilmenite",
+      "itemGroup.tabmore_dirts": "More Dirts",
       "block.lifealikes.epidosite": "Epidosite",
       "item.lifealikes.pyrite": "Pyrite",
       "item.lifealikes.stibiotantalite": "Stibiotantalite",
@@ -7916,9 +7911,9 @@
       "item.lifealikes.hypersthene": "Hypersthene",
       "block.lifealikes.podosols": "Podosols",
       "item.lifealikes.amazonite": "Amazonite",
-      "item.lifealikes.hypersthene_test": "Hypersthene TEST",
       "item.lifealikes.sekaninaite": "Sekaninaite",
       "block.lifealikes.dunite": "Dunite",
+      "itemGroup.tabmore_flowers": "More Flowers",
       "item.lifealikes.spinel": "Spinel",
       "item.lifealikes.andalusite": "Andalusite",
       "block.lifealikes.serpentinite": "Serpentinite",
@@ -8084,6 +8079,7 @@
       "item.lifealikes.ds": "Ds",
       "block.lifealikes.calcarenite": "Calcarenite",
       "block.lifealikes.monzogranite": "Monzogranite",
+      "itemGroup.tabpure_elements": "Pure Elements",
       "block.lifealikes.arkose": "Arkose",
       "item.lifealikes.xonotlite": "Xonotlite",
       "block.lifealikes.metapelite": "Metapelite",
@@ -8129,6 +8125,7 @@
       "item.lifealikes.pm": "Pm",
       "item.lifealikes.painite": "Painite",
       "item.lifealikes.k": "K",
+      "itemGroup.tabmore_gems": "More Gems",
       "item.lifealikes.pr": "Pr",
       "item.lifealikes.realgar": "Realgar",
       "item.lifealikes.f": "F",
@@ -8251,7 +8248,6 @@
       "item.lifealikes.axinite": "Axinite",
       "block.lifealikes.evaporite": "Evaporite",
       "block.lifealikes.granophyre": "Granophyre",
-      "itemGroup.tabtabelements": "Pure Elements",
       "item.lifealikes.np": "Np",
       "item.lifealikes.no": "No",
       "block.lifealikes.rendzinas": "Rendzinas",
@@ -8259,6 +8255,7 @@
       "item.lifealikes.mt": "Mt",
       "block.lifealikes.coquina": "Coquina",
       "block.lifealikes.gossan": "Gossan",
+      "itemGroup.tabmore_stones": "More Stones",
       "item.lifealikes.leucite": "Leucite",
       "item.lifealikes.taafeite": "Taafeite",
       "block.lifealikes.trachyandesite": "Trachyandesite",
@@ -8285,7 +8282,19 @@
         "children": []
       },
       {
-        "name": "More Gemstones",
+        "name": "More Gems",
+        "children": []
+      },
+      {
+        "name": "More Biomes",
+        "children": []
+      },
+      {
+        "name": "More Grasses",
+        "children": []
+      },
+      {
+        "name": "More Flowers",
         "children": []
       }
     ]

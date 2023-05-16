@@ -10,7 +10,7 @@ import net.minecraft.world.item.Item;
 
 public class GeItem extends Item {
 	public GeItem() {
-		super(new Item.Properties().tab(LifealikesModTabs.TAB_TABELEMENTS).stacksTo(64).rarity(Rarity.COMMON));
+		super(new Item.Properties().tab(LifealikesModTabs.TAB_PURE_ELEMENTS).stacksTo(64).rarity(Rarity.COMMON));
 	}
 
 	@Override

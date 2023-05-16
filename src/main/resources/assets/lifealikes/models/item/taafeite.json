@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "lifealikes:items/no_texture"
+    "layer0": "lifealikes:items/taafeite_gem"
   }
 }

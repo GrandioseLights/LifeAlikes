@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "no_texture",
+    "texture": "taafeite_gem",
     "customModelName": "Normal",
     "name": "Taafeite",
     "rarity": "COMMON",

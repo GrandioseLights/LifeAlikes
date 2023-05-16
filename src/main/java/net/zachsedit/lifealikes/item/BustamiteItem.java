@@ -10,7 +10,7 @@ import net.minecraft.world.item.Item;
 
 public class BustamiteItem extends Item {
 	public BustamiteItem() {
-		super(new Item.Properties().tab(LifealikesModTabs.TAB_TABGEMS).stacksTo(64).rarity(Rarity.COMMON));
+		super(new Item.Properties().tab(LifealikesModTabs.TAB_MORE_GEMS).stacksTo(64).rarity(Rarity.COMMON));
 	}
 
 	@Override

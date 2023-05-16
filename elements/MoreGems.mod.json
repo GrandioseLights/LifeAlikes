@@ -4,7 +4,7 @@
   "definition": {
     "name": "More Gems",
     "icon": {
-      "value": "Items.DIAMOND"
+      "value": "CUSTOM:Ruby"
     },
     "showSearch": false
   }

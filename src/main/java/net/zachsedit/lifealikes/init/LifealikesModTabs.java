@@ -5,18 +5,18 @@
 package net.zachsedit.lifealikes.init;
 
 import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.item.Items;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.CreativeModeTab;
 
 public class LifealikesModTabs {
-	public static CreativeModeTab TAB_TABELEMENTS;
-	public static CreativeModeTab TAB_TABSTONES;
-	public static CreativeModeTab TAB_TABSOILS;
-	public static CreativeModeTab TAB_TABGEMS;
+	public static CreativeModeTab TAB_PURE_ELEMENTS;
+	public static CreativeModeTab TAB_MORE_STONES;
+	public static CreativeModeTab TAB_MORE_DIRTS;
+	public static CreativeModeTab TAB_MORE_GEMS;
+	public static CreativeModeTab TAB_MORE_FLOWERS;
 
 	public static void load() {
-		TAB_TABELEMENTS = new CreativeModeTab("tabtabelements") {
+		TAB_PURE_ELEMENTS = new CreativeModeTab("tabpure_elements") {
 			@Override
 			public ItemStack makeIcon() {
 				return new ItemStack(Blocks.BARRIER);
@@ -27,7 +27,7 @@ public class LifealikesModTabs {
 				return false;
 			}
 		};
-		TAB_TABSTONES = new CreativeModeTab("tabtabstones") {
+		TAB_MORE_STONES = new CreativeModeTab("tabmore_stones") {
 			@Override
 			public ItemStack makeIcon() {
 				return new ItemStack(Blocks.STONE);
@@ -38,7 +38,7 @@ public class LifealikesModTabs {
 				return false;
 			}
 		};
-		TAB_TABSOILS = new CreativeModeTab("tabtabsoils") {
+		TAB_MORE_DIRTS = new CreativeModeTab("tabmore_dirts") {
 			@Override
 			public ItemStack makeIcon() {
 				return new ItemStack(Blocks.DIRT);
@@ -49,10 +49,21 @@ public class LifealikesModTabs {
 				return true;
 			}
 		}.setBackgroundSuffix("item_search.png");
-		TAB_TABGEMS = new CreativeModeTab("tabtabgems") {
+		TAB_MORE_GEMS = new CreativeModeTab("tabmore_gems") {
 			@Override
 			public ItemStack makeIcon() {
-				return new ItemStack(Items.DIAMOND);
+				return new ItemStack(LifealikesModItems.RUBY.get());
+			}
+
+			@Override
+			public boolean hasSearchBar() {
+				return false;
+			}
+		};
+		TAB_MORE_FLOWERS = new CreativeModeTab("tabmore_flowers") {
+			@Override
+			public ItemStack makeIcon() {
+				return new ItemStack(LifealikesModItems.H.get());
 			}
 
 			@Override

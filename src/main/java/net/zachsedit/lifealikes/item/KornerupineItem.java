@@ -10,7 +10,7 @@ import net.minecraft.world.item.Item;
 
 public class KornerupineItem extends Item {
 	public KornerupineItem() {
-		super(new Item.Properties().tab(LifealikesModTabs.TAB_TABGEMS).stacksTo(64).rarity(Rarity.COMMON));
+		super(new Item.Properties().tab(LifealikesModTabs.TAB_MORE_GEMS).stacksTo(64).rarity(Rarity.COMMON));
 	}
 
 	@Override
